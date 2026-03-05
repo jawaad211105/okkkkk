@@ -1,0 +1,1 @@
+{"name": "prestige-pro", "version": "1.0.0", "private": true, "scripts": {"start": "vite", "build": "vite build"}, "devDependencies": {"vite": "^2.0.0", "tailwindcss": "^2.0.0", "postcss": "^8.0.0"}}
